@@ -1,5 +1,5 @@
 import time
-numero=int(input('Digite um número! \n '))
+numero=int(input('Digite um número com unidade de milhar! \n '))
 numero1 = str(numero)
 print('\n Analisando o número {} ... \n' .format(numero))
 time.sleep(2.0)
