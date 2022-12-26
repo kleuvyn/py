@@ -10,7 +10,6 @@ jogador = int(input('Eii qual número eu pensei?\n'))
 time.sleep(3.0)
 if jogador == computador:
     print('Parabéns!!!\n \nVocê acertou!')
-
 else:
     print('Ganhei!!!\n \nEu pensei no Número {} e não no {} !' . format(computador, jogador))
 
