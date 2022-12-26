@@ -22,4 +22,4 @@ nota = ( bimestre1 + bimestre2 + bimestre3 + bimestre4)/4
 print('Sua media foi {:.2f}'  .format(nota))
 print('Parabéns sua nota está acima da média' if nota>=7  else 'Infelizmente sua nota está abaixo da média')
 
-#Parte4
+
