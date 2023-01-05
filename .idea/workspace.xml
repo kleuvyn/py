@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="identifia qual número e par ou impar" />
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="identifica qual número e par ou impar">
+      <change afterPath="$PROJECT_DIR$/curso-em-video/R$ Viagem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,28 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.n par ou impar">
+  <component name="RunManager" selected="Python.R$ Viagem">
+    <configuration name="R$ Viagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-em-video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/R$ Viagem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="casas-decimais" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,43 +206,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="verificando-nome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-em-video" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/verificando-nome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.casas-decimais" />
       <item itemvalue="Python.test23" />
+      <item itemvalue="Python.R$ Viagem" />
       <item itemvalue="Python.n par ou impar" />
       <item itemvalue="Python.jogo-do-adivinha" />
       <item itemvalue="Python.media-final" />
       <item itemvalue="Python.radar-eletronico" />
-      <item itemvalue="Python.verificando-nome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.R$ Viagem" />
         <item itemvalue="Python.n par ou impar" />
         <item itemvalue="Python.radar-eletronico" />
         <item itemvalue="Python.jogo-do-adivinha" />
         <item itemvalue="Python.media-final" />
-        <item itemvalue="Python.verificando-nome" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672961298421</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="identifica qual número e par ou impar">
+      <created>1672961327116</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672961327116</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -420,6 +430,7 @@
     <MESSAGE value="validando se e verdadeiro ou falso&#10;obs:arrumar muitos erros, por em ordem as ideias" />
     <MESSAGE value="primeira palavra, primeira e ultima palavra, quantidades de uma determinada letra" />
     <MESSAGE value="identifia qual número e par ou impar" />
-    <option name="LAST_COMMIT_MESSAGE" value="identifia qual número e par ou impar" />
+    <MESSAGE value="identifica qual número e par ou impar" />
+    <option name="LAST_COMMIT_MESSAGE" value="identifica qual número e par ou impar" />
   </component>
 </project>
