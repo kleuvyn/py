@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="identifica qual número e par ou impar">
-      <change afterPath="$PROJECT_DIR$/curso-em-video/R$ Viagem.py" afterDir="false" />
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="calcular a distância para o valor da passagem">
+      <change afterPath="$PROJECT_DIR$/curso-em-video/bissexto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.R$ Viagem">
+  <component name="RunManager" selected="Python.bissexto">
     <configuration name="R$ Viagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +72,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/R$ Viagem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bissexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-em-video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/bissexto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,27 +135,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/jogo-do-adivinha.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="media-final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-em-video" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/media-final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,18 +210,18 @@
       <item itemvalue="Python.casas-decimais" />
       <item itemvalue="Python.test23" />
       <item itemvalue="Python.R$ Viagem" />
+      <item itemvalue="Python.bissexto" />
       <item itemvalue="Python.n par ou impar" />
       <item itemvalue="Python.jogo-do-adivinha" />
-      <item itemvalue="Python.media-final" />
       <item itemvalue="Python.radar-eletronico" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bissexto" />
         <item itemvalue="Python.R$ Viagem" />
         <item itemvalue="Python.n par ou impar" />
         <item itemvalue="Python.radar-eletronico" />
         <item itemvalue="Python.jogo-do-adivinha" />
-        <item itemvalue="Python.media-final" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672961327116</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="calcular a distância para o valor da passagem">
+      <created>1672962205118</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672962205118</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -431,6 +438,7 @@
     <MESSAGE value="primeira palavra, primeira e ultima palavra, quantidades de uma determinada letra" />
     <MESSAGE value="identifia qual número e par ou impar" />
     <MESSAGE value="identifica qual número e par ou impar" />
-    <option name="LAST_COMMIT_MESSAGE" value="identifica qual número e par ou impar" />
+    <MESSAGE value="calcular a distância para o valor da passagem" />
+    <option name="LAST_COMMIT_MESSAGE" value="calcular a distância para o valor da passagem" />
   </component>
 </project>
