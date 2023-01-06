@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="atualizando">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-em-video/Aprovando emprestimo.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Aprovando emprestimo.py" afterDir="false" />
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise de emprestimo">
+      <change afterPath="$PROJECT_DIR$/curso-em-video/Bases numéricas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Analise do ano Bissexto.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -479,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673029336892</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="analise de emprestimo">
+      <created>1673033618051</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1673033618051</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,6 +519,7 @@
     <MESSAGE value="identificar números pares e impares" />
     <MESSAGE value="reajuste salárial" />
     <MESSAGE value="atualizando" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
+    <MESSAGE value="analise de emprestimo" />
+    <option name="LAST_COMMIT_MESSAGE" value="analise de emprestimo" />
   </component>
 </project>
