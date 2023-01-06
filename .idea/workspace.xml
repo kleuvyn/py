@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise do ano bissexto">
-      <change afterPath="$PROJECT_DIR$/curso-em-video/bissexto.py" afterDir="false" />
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="identificar números pares e impares">
+      <change afterPath="$PROJECT_DIR$/curso-em-video/salários aumentos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.valores menor e maior">
+  <component name="RunManager" selected="Python.salários aumentos">
     <configuration name="R$ Viagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="radar-eletronico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="salários aumentos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/radar-eletronico.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/salários aumentos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,16 +212,16 @@
       <item itemvalue="Python.R$ Viagem" />
       <item itemvalue="Python.bissexto" />
       <item itemvalue="Python.n par ou impar" />
+      <item itemvalue="Python.salários aumentos" />
       <item itemvalue="Python.valores menor e maior" />
-      <item itemvalue="Python.radar-eletronico" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.salários aumentos" />
         <item itemvalue="Python.valores menor e maior" />
         <item itemvalue="Python.bissexto" />
         <item itemvalue="Python.R$ Viagem" />
         <item itemvalue="Python.n par ou impar" />
-        <item itemvalue="Python.radar-eletronico" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +444,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672964698931</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="identificar números pares e impares">
+      <created>1672964909616</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672964909616</updated>
+    </task>
+    <task id="LOCAL-00032" summary="identificar números pares e impares">
+      <created>1672964987181</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1672964987181</updated>
+    </task>
+    <task id="LOCAL-00033" summary="identificar números pares e impares">
+      <created>1672965002391</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1672965002391</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -462,6 +484,7 @@
     <MESSAGE value="analise de ano bissexto" />
     <MESSAGE value="analise de valores menor e maior" />
     <MESSAGE value="analise do ano bissexto" />
-    <option name="LAST_COMMIT_MESSAGE" value="analise do ano bissexto" />
+    <MESSAGE value="identificar números pares e impares" />
+    <option name="LAST_COMMIT_MESSAGE" value="identificar números pares e impares" />
   </component>
 </project>
