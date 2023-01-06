@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="calcular a distância para o valor da passagem">
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise de ano bissexto">
       <change afterPath="$PROJECT_DIR$/curso-em-video/bissexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-em-video/valores menor e maior.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bissexto">
+  <component name="RunManager" selected="Python.valores menor e maior">
     <configuration name="R$ Viagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,27 +115,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/casas-decimais.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jogo-do-adivinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-em-video" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/jogo-do-adivinha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,22 +186,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="valores menor e maior" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso-em-video" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/valores menor e maior.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.casas-decimais" />
       <item itemvalue="Python.test23" />
       <item itemvalue="Python.R$ Viagem" />
       <item itemvalue="Python.bissexto" />
       <item itemvalue="Python.n par ou impar" />
-      <item itemvalue="Python.jogo-do-adivinha" />
+      <item itemvalue="Python.valores menor e maior" />
       <item itemvalue="Python.radar-eletronico" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.valores menor e maior" />
         <item itemvalue="Python.bissexto" />
         <item itemvalue="Python.R$ Viagem" />
         <item itemvalue="Python.n par ou impar" />
         <item itemvalue="Python.radar-eletronico" />
-        <item itemvalue="Python.jogo-do-adivinha" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672962205118</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="analise de ano bissexto">
+      <created>1672963245809</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1672963245809</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -439,6 +447,7 @@
     <MESSAGE value="identifia qual número e par ou impar" />
     <MESSAGE value="identifica qual número e par ou impar" />
     <MESSAGE value="calcular a distância para o valor da passagem" />
-    <option name="LAST_COMMIT_MESSAGE" value="calcular a distância para o valor da passagem" />
+    <MESSAGE value="analise de ano bissexto" />
+    <option name="LAST_COMMIT_MESSAGE" value="analise de ano bissexto" />
   </component>
 </project>
