@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise de emprestimo">
-      <change afterPath="$PROJECT_DIR$/curso-em-video/Bases numéricas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-em-video/Analise do ano Bissexto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Adicionando cores.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Adicionando cores  na letras .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Analise de Valores menor e maior.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Analise de Valores menores e maiores.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -486,7 +486,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673033618051</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="analise de emprestimo">
+      <created>1673033867309</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673033867309</updated>
+    </task>
+    <task id="LOCAL-00038" summary="analise de emprestimo">
+      <created>1673033880239</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673033880239</updated>
+    </task>
+    <task id="LOCAL-00039" summary="analise de emprestimo">
+      <created>1673033977912</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673033977912</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
