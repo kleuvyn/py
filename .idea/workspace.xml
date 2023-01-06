@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise de emprestimo">
-      <change beforePath="$PROJECT_DIR$/curso-em-video/Adicionando cores.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Adicionando cores  na letras .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-em-video/Analise de Valores menor e maior.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Analise de Valores menores e maiores.py" afterDir="false" />
-    </list>
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="adicionando cores, estilo, texto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -507,7 +504,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673033977912</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="atualizando">
+      <created>1673034215765</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1673034215765</updated>
+    </task>
+    <task id="LOCAL-00041" summary="adicionando cores, estilo, texto">
+      <created>1673034374073</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1673034374073</updated>
+    </task>
+    <task id="LOCAL-00042" summary="adicionando cores, estilo, texto">
+      <created>1673034494330</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1673034494330</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,8 +557,9 @@
     <MESSAGE value="analise do ano bissexto" />
     <MESSAGE value="identificar números pares e impares" />
     <MESSAGE value="reajuste salárial" />
-    <MESSAGE value="atualizando" />
     <MESSAGE value="analise de emprestimo" />
-    <option name="LAST_COMMIT_MESSAGE" value="analise de emprestimo" />
+    <MESSAGE value="atualizando" />
+    <MESSAGE value="adicionando cores, estilo, texto" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando cores, estilo, texto" />
   </component>
 </project>
