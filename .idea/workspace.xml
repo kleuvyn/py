@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="reajuste salárial">
-      <change afterPath="$PROJECT_DIR$/curso-em-video/Analisando triângulo.py" afterDir="false" />
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="atualizando">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Aprovando emprestimo.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Aprovando emprestimo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,16 +48,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kleuvyn/Documentos/projetos_python/py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kleuvyn/Documentos/projetos_python/py/curso-em-video&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/curso-em-video" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.salários aumentos">
+  <component name="RunManager" selected="Python.Aprovando emprestimo">
     <configuration name="Analisando ano Bissexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="R$ Viagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aprovando emprestimo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/R$ Viagem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Aprovando emprestimo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="n par ou impar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Estruturas de controle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/n par ou impar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Estruturas de controle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,21 +207,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Analisando ano Bissexto" />
       <item itemvalue="Python.Analisando as casas decimais" />
-      <item itemvalue="Python.R$ Viagem" />
-      <item itemvalue="Python.n par ou impar" />
-      <item itemvalue="Python.salários aumentos" />
       <item itemvalue="Python.test23" />
+      <item itemvalue="Python.Aprovando emprestimo" />
+      <item itemvalue="Python.Estruturas de controle" />
+      <item itemvalue="Python.Analisando ano Bissexto" />
+      <item itemvalue="Python.salários aumentos" />
       <item itemvalue="Python.valores menor e maior" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aprovando emprestimo" />
+        <item itemvalue="Python.Estruturas de controle" />
         <item itemvalue="Python.salários aumentos" />
         <item itemvalue="Python.valores menor e maior" />
         <item itemvalue="Python.Analisando ano Bissexto" />
-        <item itemvalue="Python.R$ Viagem" />
-        <item itemvalue="Python.n par ou impar" />
       </list>
     </recent_temporary>
   </component>
@@ -471,8 +472,26 @@
       <option name="project" value="LOCAL" />
       <updated>1672965964387</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="atualizando">
+      <created>1673029336892</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1673029336892</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test.01" />
@@ -492,6 +511,7 @@
     <MESSAGE value="analise do ano bissexto" />
     <MESSAGE value="identificar números pares e impares" />
     <MESSAGE value="reajuste salárial" />
-    <option name="LAST_COMMIT_MESSAGE" value="reajuste salárial" />
+    <MESSAGE value="atualizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
   </component>
 </project>
