@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise de ano bissexto">
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="analise do ano bissexto">
       <change afterPath="$PROJECT_DIR$/curso-em-video/bissexto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-em-video/valores menor e maior.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -431,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672963245809</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="analise de valores menor e maior">
+      <created>1672964660591</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672964660591</updated>
+    </task>
+    <task id="LOCAL-00030" summary="analise do ano bissexto">
+      <created>1672964698931</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672964698931</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -448,6 +460,8 @@
     <MESSAGE value="identifica qual número e par ou impar" />
     <MESSAGE value="calcular a distância para o valor da passagem" />
     <MESSAGE value="analise de ano bissexto" />
-    <option name="LAST_COMMIT_MESSAGE" value="analise de ano bissexto" />
+    <MESSAGE value="analise de valores menor e maior" />
+    <MESSAGE value="analise do ano bissexto" />
+    <option name="LAST_COMMIT_MESSAGE" value="analise do ano bissexto" />
   </component>
 </project>
