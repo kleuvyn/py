@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="Conversor de bases binário, octal e hexadecimal">
-      <change afterPath="$PROJECT_DIR$/curso-em-video/Comparando números.py" afterDir="false" />
+    <list default="true" id="8b252d24-c849-41ce-aad3-4e2f19fabff7" name="Changes" comment="Analise do aumento salarial">
+      <change afterPath="$PROJECT_DIR$/curso-em-video/Média.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Analise do valor da passagem por distância.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Analise do valor da passagem por distância.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Fechamento da media final.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Fechamento da media final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-em-video/Jogo-do-adivinha.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso-em-video/Jogo-do-adivinha.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/kleuvyn/Documentos/projetos_python/py/curso-em-video",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kleuvyn/Documentos/projetos_python/py/curso-em-video&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/curso-em-video" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Comparando números">
+  <component name="RunManager" selected="Python.Média">
     <configuration name="Analisando as casas decimais" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aprovando emprestimo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Analise do valor da passagem por distância" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Aprovando emprestimo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Analise do valor da passagem por distância.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bases numéricas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Analise dos num. pares e impares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Bases numéricas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Analise dos num. pares e impares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Comparando números" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fechamento da media final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Comparando números.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Fechamento da media final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Estruturas de controle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Jogo-do-adivinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Estruturas de controle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Jogo-do-adivinha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salários aumentos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Média" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/salários aumentos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso-em-video/Média.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,20 +212,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.Analisando as casas decimais" />
+      <item itemvalue="Python.Analise do valor da passagem por distância" />
+      <item itemvalue="Python.Analise dos num. pares e impares" />
+      <item itemvalue="Python.Fechamento da media final" />
+      <item itemvalue="Python.Jogo-do-adivinha" />
+      <item itemvalue="Python.Média" />
       <item itemvalue="Python.test23" />
-      <item itemvalue="Python.Aprovando emprestimo" />
-      <item itemvalue="Python.Bases numéricas" />
-      <item itemvalue="Python.Comparando números" />
-      <item itemvalue="Python.Estruturas de controle" />
-      <item itemvalue="Python.salários aumentos" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Comparando números" />
-        <item itemvalue="Python.Bases numéricas" />
-        <item itemvalue="Python.Aprovando emprestimo" />
-        <item itemvalue="Python.Estruturas de controle" />
-        <item itemvalue="Python.salários aumentos" />
+        <item itemvalue="Python.Média" />
+        <item itemvalue="Python.Fechamento da media final" />
+        <item itemvalue="Python.Analise dos num. pares e impares" />
+        <item itemvalue="Python.Jogo-do-adivinha" />
+        <item itemvalue="Python.Analise do valor da passagem por distância" />
       </list>
     </recent_temporary>
   </component>
@@ -550,7 +553,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673037977944</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="comparando números maior e menor">
+      <created>1673039355888</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1673039355888</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Analise da idade para o alistamento obrigatorio">
+      <created>1674638897920</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1674638897920</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Analise do aumento salarial">
+      <created>1674639032717</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1674639032718</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test.01" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="verificando a velocidade, excesso aplica multa" />
     <MESSAGE value="verificando a ordem das casa decimais" />
@@ -588,6 +611,9 @@
     <MESSAGE value="analisando qual ano foi ou e o  bissexto" />
     <MESSAGE value="analisando qual ano foi ou será o ano bissexto" />
     <MESSAGE value="Conversor de bases binário, octal e hexadecimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conversor de bases binário, octal e hexadecimal" />
+    <MESSAGE value="comparando números maior e menor" />
+    <MESSAGE value="Analise da idade para o alistamento obrigatorio" />
+    <MESSAGE value="Analise do aumento salarial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Analise do aumento salarial" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-#PARTE1
+-#PARTE1
 idade = int(input('Digite a sua idade:\n '))
 if idade<=18:
     print('MENOR DE 18 ANOS')
